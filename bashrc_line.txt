@@ -2,4 +2,4 @@ function _update_ps1() {
     PS1=$(powerline-shell $?)
 }
 
-Remember to put this somewhere near the start of .bashrc 
+Remember to put this somewhere near the start of .bashrc
