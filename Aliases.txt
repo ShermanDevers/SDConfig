@@ -1,0 +1,23 @@
+# Shorten Commands
+alias pf="sudo poweroff"
+alias rb="sudo reboot"
+alias btop="bpytop"
+
+# Tools
+alias balena-etcher="/usr/bin/./balenaEtcher-1.18.11-x64.AppImage"
+alias toipe="~/Tools/Toipe/toipe"
+alias Python312Loc="~/.local/lib/python312/site-packages"
+alias vencord="sudo ~/Tools/./VencordInstallerCli-linux"
+
+# QOL
+alias docker="sudo docker"
+alias AliasChanger="nvim ~/.bash_aliases"
+alias SourceAlias="source ~/.bash_aliases"
+
+# Aliases to replace default
+alias cd="z"
+alias sxiv="nsxiv"
+alias ls="eza"
+alias l="eza -F"
+alias cat="bat"
+alias grep="rg"
